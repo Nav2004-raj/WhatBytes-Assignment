@@ -2,7 +2,7 @@
 
 This repository contains my solution to the frontend assignment provided by WhatBytes for the Frontend Developer Internship.
 
-Please check out here 👇
+Please check out here 👉
 https://what-bytes-assignment-plum.vercel.app/
 
 ## Overview
